@@ -44,6 +44,8 @@ To further enhance the analysis and the visualisation of results, the following 
 - **Additional Metrics**:
   - **Sharpe Ratio**: Adding the Sharpe Ratio would allow for a more thorough risk-adjusted performance assessment by comparing excess returns to return volatility.
   - **Volatility**: Including volatility as a metric would give a clearer understanding of the risk inherent in the strategy by quantifying the variability of returns.
+
+- **Backtesting Across Other Indexes**: Expanding the backtesting to other major indexes like the **FTSE 100** or **NASDAQ** could provide additional insights into the robustness of the moving average strategy across different market conditions and regions. This would help determine whether the strategy is effective globally or if its performance is tied to specific characteristics of the S&P 500.
 ## Key Insights from the Analysis
 
 - **Market Timing vs. Buy-and-Hold**: The moving average crossover strategy offers a method for mitigating losses during bear markets by generating sell signals when short-term trends weaken. During key downturns like the **2008 Financial Crisis**, the strategy experienced fewer drawdowns compared to the Buy-and-Hold approach.
